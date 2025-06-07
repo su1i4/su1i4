@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sulaiman</h1>
-<h3 align="center">I am a 19 years old strong junior Frontend Developer</h3>
+<h3 align="center">I am a 21 years old strong junior Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=su1i4&label=Profile%20views&color=0e75b6&style=flat" alt="su1i4" /> </p>
 
